@@ -24,7 +24,7 @@ Thanks for watching, Stay home and Be safe...Have a great day!</br>
 #Arduinoproject #ArduinoBloodOxygen #Howto #COVID19 #BloodOxygen #ArduinoBodyTemperature #BodyTemperature</br></br>
 
 
-<img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/blood%20oxygen/Circuit%20diagram.jpg" /></br>
+<img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/blood%20oxygen/Circuit%20diagram1.jpg" /></br>
 
 <img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/blood%20oxygen/Adafruit_MLX90614.jpg" /></br>
 <img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/blood%20oxygen/LiquidCrystal%20I2C%E5%BA%93.jpg" /></br>
